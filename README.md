@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Chauhanitin
-- 👀 I’m interested in Web-Development
-- 🌱 I’m currently learning React Js, Node Js and Next Js.
-- 💞️ I’m looking to Internship or Job in the field of Development.
+- 👀 I’m working as software developer in tech company.
+- 🌱 I’m working on forntend Part => ReactJs, Webgl.
+- 💞️ I’m learning backend part.
 - 📫 You can reached me @www.linkedin.com/in/nitin-chauhan-63ab4b288
 
 
